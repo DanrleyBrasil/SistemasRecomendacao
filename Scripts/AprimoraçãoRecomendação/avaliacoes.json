@@ -1,0 +1,43 @@
+{
+    "Paulo": {
+        "Filme1": 3.0,
+        "Filme2": 3.5,
+        "Filme3": 1.5,
+        "Filme4": 5.0,
+        "Filme5": 3.0,
+        "Filme6": 3.5
+    },
+    "João": {
+        "Filme1": 2.5,
+        "Filme2": 3.0,
+        "Filme4": 3.5,
+        "Filme6": 4.0
+    },
+    "Márcia": {
+        "Filme2": 3.5,
+        "Filme3": 3.0,
+        "Filme4": 4.0,
+        "Filme5": 2.5,
+        "Filme6": 4.5
+    },
+    "Carlos": {
+        "Filme1": 3.0,
+        "Filme2": 4.0,
+        "Filme4": 5.0,
+        "Filme5": 3.5,
+        "Filme6": 3.0
+    },
+    "Ana": {
+        "Filme1": 2.5,
+        "Filme2": 3.5,
+        "Filme3": 3.0,
+        "Filme4": 3.5,
+        "Filme5": 2.5,
+        "Filme6": 3.0
+    },
+    "Mauro": {
+        "Filme2": 4.0,
+        "Filme4": 4.0,
+        "Filme5": 1.0
+    }
+}
